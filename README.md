@@ -3,7 +3,7 @@ PocketMine-MP plugin by Anim', add effects or other things when interact with it
 
 Give me ideas to more functions in the plugin.
 
-Soon: Cooldown.
+Soon: Cooldown, and possibility to remove item when used.
 
 Contact:
 Discord: Anim' ツ | ΛⲊⲦΓΛ#0212
