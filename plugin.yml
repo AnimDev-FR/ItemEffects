@@ -1,0 +1,6 @@
+name: ItemEffects
+author: Animcraft
+version: 0.5
+main: Animcraft\Main
+description: "Plugin by Animcraft, add effects when interact with item, choose item and effects in config.yml !"
+api: 3.15.0

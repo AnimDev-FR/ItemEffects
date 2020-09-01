@@ -1,0 +1,25 @@
+---
+#For help: DM Anim' ツ | ΛⲊⲦΓΛ#0212 on discord
+
+#Replace this number (341 or 378 by default) by the id of your item, you can put more item by reproducing the same "code" as in these two examples
+341:
+  #if you want "heal" is for add heal when interact with it (you can take off it)
+  heal: 5
+  effects:
+    #8 and 10 is effect id you can take off or add new or change
+    8:
+      amplifier: 1
+      visible: false
+      duration: 10
+    10:
+      amplifier: 1
+      visible: false
+      duration: 10
+378:
+  heal: 2
+  effects:
+    4:
+      amplifier: 1
+      visible: false
+      duration: 10
+...
