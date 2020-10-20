@@ -1,6 +1,5 @@
 <?php
 namespace Animcraft;
-use Animcraft\Events\EventListener;
 use pocketmine\entity\Effect;
 use pocketmine\entity\EffectInstance;
 use pocketmine\event\Listener;
@@ -14,7 +13,6 @@ class Main extends PluginBase implements Listener{
     public function onEnable()
     {
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
-        $this->getServer()->getPluginManager()->registerEvents(new EventListener(), $this);
         if(!file_exists($this->getDataFolder() . "config.yml")){
             $this->saveResource("config.yml");
         }
