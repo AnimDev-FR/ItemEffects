@@ -6,6 +6,6 @@ Give me ideas to more functions in the plugin.
 Soon: Cooldown, and possibility to remove item when used.
 
 Contact:
-Discord: Anim' ツ | ΛⲊⲦΓΛ#0212
+Discord: Anim' ツ#0212
 
 My PocketMine market server: https://discord.gg/uYyYrxM
